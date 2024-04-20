@@ -14,13 +14,13 @@ Tools : Visual Studio 2022, Figma, Illustrator
 Language : Python 3.11  
 pip : PyQt5, gTTS, PyAudio, ctypes, playsound, numpy...
 ### 구현 및 기여 부분
-- 키오스크화면
-  -  4가지의 메뉴버튼
+- 키오스크 화면
+  -  4가지의 메뉴 버튼
   -  각 메뉴들 표시
   -  win32 API를 사용하여 마이크 제어하는 버튼
   -  언어 변경 ( 영어, 한글 )
   -  초기화 버튼 ( 주문내역 및 언어 초기화 )
-  -  음성주문 시 주문 내용 표시
+  -  음성 주문 시 주문 내용 표시
   -  현제 주문내역 및 총 가격 표시
   -  결제 버튼 누를 시 총 주문내역 및 가격 표시, 주문내역 초기화
 - 음성
