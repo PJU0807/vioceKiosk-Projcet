@@ -32,3 +32,8 @@ pip : PyQt5, gTTS, PyAudio, ctypes, playsound, numpy...
   - Illustrator와 Photoshop 사용하여 사진 편집 
 - 멀티프로세싱
   - UI와 음성인식을 동시에 작동하기 위해 멀티프로세싱
+
+---
+### 실제 구동 화면
+![스크린샷 2024-04-21 011738](https://github.com/PJU0807/vioceKiosk-Projcet/assets/167528682/bdbd31b5-3326-46d6-8412-58c91f56b045)
+![스크린샷 2023-10-21 180439](https://github.com/PJU0807/vioceKiosk-Projcet/assets/167528682/92ab953f-740c-450b-9f4c-dd666a86f9dc)
